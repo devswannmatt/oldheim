@@ -1,0 +1,14 @@
+{
+  "name": "oldheim",
+  "version": "1.0.0",
+  "description": "Oldheim website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Swann",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
